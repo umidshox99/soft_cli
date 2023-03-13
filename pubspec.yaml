@@ -1,7 +1,7 @@
 name: soft_cli
-description: For creating custom flutter project from CBS Architecture. CBS Architecture https://github.com/webdastur/cbs_architecture
+description: For creating custom flutter project from Soft CLI.
 version: 2.0.0
-homepage: https://github.com/webdastur/cbs_create
+homepage: https://github.com/umidshox99/soft_cli
 
 
 
