@@ -11,7 +11,7 @@ environment:
 
 
 executables:
-  cbs_create:
+  cli_create:
 
 dependencies:
   path: ^1.8.3

@@ -10,8 +10,8 @@ enum Platform {
   macOS,
 }
 
-/// [CBSCreate] dasturni yaratish uchun base class.
-class CBSCreate {
+/// [CLICreate] dasturni yaratish uchun base class.
+class CLICreate {
   /// [fileRepository] fayllar bilan ishlash uchun [FileRepository] instanci.
   FileRepository fileRepository = FileRepository();
 
